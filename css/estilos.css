@@ -33,3 +33,14 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+footer{
+    text-align: center;
+    background: #333;
+    color: white;
+}
+
+
+footer div p{
+    padding: 10px 0px;
+}
